@@ -5,3 +5,6 @@ pdfplumber
 spacy
 scikit-learn
 python-magic
+spacy==3.7.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl
+python-magic-bin==0.4.14; sys_platform == 'win32'
