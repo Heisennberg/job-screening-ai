@@ -1,4 +1,7 @@
-ollama
 streamlit
+ollama
+python-docx
+pdfplumber
+spacy
 scikit-learn
-pandas
+python-magic
